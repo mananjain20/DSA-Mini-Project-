@@ -1,6 +1,6 @@
 # DSA-Mini-Project-
 
-# 🍔 Food Delivery System (DSA Mini Project)
+# Food Delivery System (DSA Mini Project)
 
 A simple console-based Food Delivery System developed in C++ using various Data Structures and Algorithms (DSA).
 
